@@ -8,7 +8,7 @@ Throughout PHP.Gt repositories, wherever an object represents enclosed data, a c
 <a href="https://github.com/PhpGt/TypeSafeGetter/actions" target="_blank">
 	<img src="https://badge.status.php.gt/typesafegetter-build.svg" alt="Build status" />
 </a>
-<a href="https://scrutinizer-ci.com/g/PhpGt/TypeSafeGetter" target="_blank">
+<a href="https://app.codacy.com/gh/PhpGt/TypeSafeGetter" target="_blank">
 	<img src="https://badge.status.php.gt/typesafegetter-quality.svg" alt="Code quality" />
 </a>
 <a href="https://app.codecov.io/gh/PhpGt/TypeSafeGetter" target="_blank">
